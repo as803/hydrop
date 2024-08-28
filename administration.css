@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.edit .delete{
+    width: 80px;
+    color: white;
+
+}
+
+.edit{
+    background-color: green;
+    width: 100px;
+    color: white;
+}
+
+.delete{
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    color: white;
+}
+
+table{
+    margin: 10px;
+    background-color: lightcyan;
+}

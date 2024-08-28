@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+    #fm{
+        background-color: white;
+        width: 25%;
+        box-shadow: 10px 10px 5px rgb(82,11,77);
+        border-radius:6px ;
+       margin: 120px auto;
+       padding: 50px;
+       transition: 5s;
+       
+    }
+    button{
+        width: 40%;
+        background-color: dodgerblue;
+        border-radius: 30px;
+        
+    }
+button:hover{
+    color: wheat;
+} 

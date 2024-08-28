@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
+}
+header{
+    background-image: url(1.jpg);
+    height: 140vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float: right;
+    list-style: none;
+margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: blue;
+    padding:5px 20px;
+    border: 1px blue;
+    border: 1px  transparent;
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: burlywood ;
+}  
+.logo img{
+float: left;
+width: 150px;
+height: auto;
+}
+ul li.active a{
+    background-color:burlywood;
+    color: #000;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.title{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.title h1{
+    color: blueviolet;
+font-size: 70px;
+}
+.button{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    
+}
+.btn{
+    border: 1px solid #000;
+    padding: 10px 30px;
+    color:palevioletred;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+.btn :hover{
+    color: burlywood ;
+    background-color: aqua;
+}
+footer{
+    
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    transition-duration: 2s;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left:20px;
+    border: 1px blue;
+    border: 1px  transparent;
+    transition: 0.6s ease;
+}

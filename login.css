@@ -1,0 +1,11 @@
+ body{
+    background-color: aqua;;
+ }
+ #form{
+    background-color: aliceblue;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px,5px,rgb(82, 11,77);
+    border-radius: 4px;
+ }

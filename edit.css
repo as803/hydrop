@@ -1,0 +1,22 @@
+body{
+    background-color: lightskyblue;
+}
+
+
+p input{
+    
+    height: 25px;
+    border-radius: 5px;
+
+}
+#cassian{
+    margin-left: 20px;
+}
+.form{
+    margin: 0 auto;
+    width: 30%;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+}

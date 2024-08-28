@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+
+}
+h1{
+    width: 400px;
+    background-color: rgb(183, 181, 187);
+    color: aqua;
+    margin: 0 auto;
+    padding: 30px;
+    font-size: 30px;
+    font-style: italic;
+    justify-content: space-around;
+}
+a{
+    font-size: 20px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 20x;
+    background-color: aliceblue;
+    color: blanchedalmond;
+    text-align: center;
+
+}
+a:hover{
+    color: black ;
+}
